@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\обучение\exsampless\exampie001\bin\Debug\net6.0\exampie001.exe
+C:\Users\Acer\Desktop\обучение\exsampless\exampie001\bin\Debug\net6.0\exampie001.deps.json
+C:\Users\Acer\Desktop\обучение\exsampless\exampie001\bin\Debug\net6.0\exampie001.runtimeconfig.json
+C:\Users\Acer\Desktop\обучение\exsampless\exampie001\bin\Debug\net6.0\exampie001.dll
+C:\Users\Acer\Desktop\обучение\exsampless\exampie001\bin\Debug\net6.0\exampie001.pdb
+C:\Users\Acer\Desktop\обучение\exsampless\exampie001\obj\Debug\net6.0\exampie001.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\обучение\exsampless\exampie001\obj\Debug\net6.0\exampie001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\обучение\exsampless\exampie001\obj\Debug\net6.0\exampie001.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\обучение\exsampless\exampie001\obj\Debug\net6.0\exampie001.AssemblyInfo.cs
+C:\Users\Acer\Desktop\обучение\exsampless\exampie001\obj\Debug\net6.0\exampie001.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\обучение\exsampless\exampie001\obj\Debug\net6.0\exampie001.dll
+C:\Users\Acer\Desktop\обучение\exsampless\exampie001\obj\Debug\net6.0\refint\exampie001.dll
+C:\Users\Acer\Desktop\обучение\exsampless\exampie001\obj\Debug\net6.0\exampie001.pdb
+C:\Users\Acer\Desktop\обучение\exsampless\exampie001\obj\Debug\net6.0\exampie001.genruntimeconfig.cache
+C:\Users\Acer\Desktop\обучение\exsampless\exampie001\obj\Debug\net6.0\ref\exampie001.dll
